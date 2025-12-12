@@ -1,0 +1,183 @@
+{
+  "nav": {
+    "brand": "Portfolio",
+    "home": "Home",
+    "cv": "CV",
+    "publications": "Publications",
+    "projects": "Projects",
+    "contact": "Contact",
+    "toggleLabel": "Switch language",
+    "themeToggle": "Toggle dark mode"
+  },
+  "hero": {
+    "name": "Lukas Schönmann",
+    "role": "Bioinformatics / Genomics Data Scientist",
+    "summary": "Working at the intersection of computational biology and data science. Focused on large-scale genomic analysis, high-performance computing, and building reproducible pipelines with Python, R, and modern tooling.",
+    "viewCv": "View CV",
+    "seeProjects": "See Projects",
+    "portraitAlt": "Portrait of Lukas Schönmann"
+  },
+  "cv": {
+    "heading": "Curriculum Vitae",
+    "description": "A summary of my professional experience, education, and technical skills.",
+    "download": "Download PDF",
+    "experienceHeading": "Experience",
+    "educationHeading": "Education",
+    "skillsHeading": "Skills",
+    "publicationsHeading": "Publications",
+    "experience": [
+      {
+        "title": "Research Associate (Computational Biology/Bioinformatics)",
+        "company": "BOKU University",
+        "period": "June 2025 – Present",
+        "description": "Large-scale genomic data analysis (NGS, k-mer-based GWAS, variant calling) with reproducible pipelines on HPC clusters; developing bioinformatics tools, writing scientific manuscripts and student supervision."
+      },
+      {
+        "title": "E-Multiplicator",
+        "company": "BOKU University",
+        "period": "July 2024 – May 2025",
+        "description": "Advised instructors on online-supported teaching and enhanced the university e-learning platform (BOKUExams) with automated question generation and new practice exercises."
+      },
+      {
+        "title": "Student Assistant, Institute of Computational Biology",
+        "company": "BOKU University",
+        "period": "November 2022 – May 2025",
+        "description": "Supported computational biology teaching and research activities, contributing to data processing workflows and student guidance."
+      },
+      {
+        "title": "Tutor, Institute of Statistics",
+        "company": "BOKU University",
+        "period": "October 2022 – June 2024",
+        "description": "Tutor for the courses 'First Steps with R' and 'Statistics with R'."
+      },
+      {
+        "title": "Tutor, Organic Chemistry Practicals",
+        "company": "BOKU University",
+        "period": "June 2022",
+        "description": "Led practical lab sessions covering liquid-liquid extraction, distillation, recrystallization, thin layer chromatography, and synthesis."
+      },
+      {
+        "title": "Internship Lab Technician QM",
+        "company": "STAMAG Stadlauer Malzfabrik GesmbH",
+        "period": "August 2019",
+        "description": "Conducted cereal chemistry analyses for raw material quality control, performed malt analytics (EBC, Kjeldahl, MEBAK), and supported audits."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplom-Ingenieur (Master’s Degree), Biotechnology",
+        "institution": "BOKU University",
+        "period": "August 2021 – April 2025",
+        "distinction": "passed with distinction"
+      },
+      {
+        "degree": "Bachelor of Science - BSc, Food Science and Biotechnology",
+        "institution": "BOKU University",
+        "period": "October 2017 – June 2021",
+        "distinction": "passed with distinction"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "description": "Extensive experience in Python for data analysis, scripting, and developing bioinformatics tools."
+      },
+      {
+        "name": "R",
+        "description": "Proficient in R for statistical analysis, data visualization, and building interactive reports."
+      },
+      {
+        "name": "High-performance computing (HPC)",
+        "description": "Working with terabyte-scale data on a high-performance Linux cluster and the Austrian Scientific Computing cluster, submitting SLURM scripts, and utilizing parallelization."
+      },
+      {
+        "name": "Next-Generation Sequencing (NGS)",
+        "description": "Hands-on experience with NGS data analysis, including quality control, alignment, and variant calling."
+      },
+      {
+        "name": "Machine learning (scikit-learn)",
+        "description": "Applied machine learning techniques for predictive modeling and data-driven insights in biological datasets, such as Random Forests."
+      },
+      {
+        "name": "Data visualization (Jupyter, Rmarkdown, Polars/Pandas)",
+        "description": "Creating compelling data visualizations and reports to communicate complex findings effectively, using matplotlib, ggplot2, seaborn, and plotly graph libraries, and dimensionality reduction techniques such as PCA and UMAP."
+      },
+      {
+        "name": "GWAS & variant analysis",
+        "description": "Specialized in k-mer based genome-wide association studies and (structural) variant analysis for genomic research."
+      },
+      {
+        "name": "Bioinformatics pipelines (Snakemake)",
+        "description": "Building and managing reproducible bioinformatics pipelines for automated data processing and analysis."
+      },
+      {
+        "name": "Bash",
+        "description": "Proficient in Bash scripting for automating tasks and managing system operations in a Linux environment."
+      },
+      {
+        "name": "Rust tooling & CI/CD",
+        "description": "Utilizing Rust for performance-critical applications and implementing CI/CD pipelines for automated testing and deployment."
+      },
+      {
+        "name": "Dependency management (conda/uv)",
+        "description": "Managing Python environments and packages with conda and uv, including creating, activating, and installing dependencies."
+      }
+    ],
+    "publications": [
+      {
+        "title": "MerKurio: sequence extraction and annotation based on matching k-mers",
+        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Currently under review."
+      },
+      {
+        "title": "Haplotype divergence of flowering time regulator genes in sugar beet and wild beets",
+        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Talk presented at the 2nd Beet Resources Conference, October 2022. Hosted by BOKU Vienna."
+      },
+      {
+        "title": "Exploiting k-mers for genotype-phenotype association in spinach",
+        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster presented at the German Conference on Bioinformatics (GCB) 2024, September 2024. Organized by DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V."
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Projects",
+    "description": "A selection of personal and professional projects I've worked on.",
+    "code": "Code",
+    "demo": "Demo",
+    "docs": "Docs",
+    "crates": "Crates",
+    "items": [
+      {
+        "title": "MerKurio",
+        "description": "A bioinformatics command-line tool written in Rust for quick k-mer-based FASTA/FASTQ sequence record extraction, and SAM/BAM record filtering plus file annotation with k-mer tags.",
+        "tech": ["Rust", "CI/CD", "Command-line tool"],
+        "github": "https://github.com/lschoenm/MerKurio",
+        "demo": null,
+        "cratesio": "https://crates.io/crates/Merkurio",
+        "docs": "https://lschoenm.github.io/MerKurio/"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "Personal portfolio website designed and implemented in React/TypeScript. Rapidly prototyped and iteratively refined using AI-assisted development workflows (LLM-based code generation and review), with manual validation and refactoring.",
+        "tech": ["TypeScript", "React", "Vite", "Tailwind CSS"],
+        "github": "https://github.com",
+        "demo": "https://example.com"
+     }
+    ]
+  },
+  "footer": {
+    "copyright": "© {{year}} Lukas Schönmann. All rights reserved."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "back": "Return to Home"
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out to me.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  }
+}

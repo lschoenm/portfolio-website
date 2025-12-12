@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "brand": "Portfolio",
+    "home": "Startseite",
+    "cv": "Lebenslauf",
+    "publications": "Publikationen",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "toggleLabel": "Sprache wechseln",
+    "themeToggle": "Dunkelmodus umschalten"
+  },
+  "hero": {
+    "name": "Lukas Schönmann",
+    "role": "Bioinformatik / Genomik Data Scientist",
+    "summary": "Ich arbeite an der Schnittstelle zwischen Bioinformatik und Data Science. Mein Schwerpunkt liegt auf groß angelegten Genomanalysen, Hochleistungsrechnen und der Erstellung reproduzierbarer Pipelines mit Python, R und modernen Tools.",
+    "viewCv": "Lebenslauf ansehen",
+    "seeProjects": "Projekte ansehen",
+    "portraitAlt": "Porträt von Lukas Schönmann"
+  },
+  "cv": {
+    "heading": "Lebenslauf",
+    "description": "Eine Übersicht über meine Berufserfahrung, Ausbildung und technischen Fähigkeiten.",
+    "download": "PDF herunterladen",
+    "experienceHeading": "Berufserfahrung",
+    "educationHeading": "Ausbildung",
+    "skillsHeading": "Fähigkeiten",
+    "publicationsHeading": "Publikationen",
+    "experience": [
+      {
+        "title": "Wissenschaftlicher Mitarbeiter (Computational Biology/Bioinformatik)",
+        "company": "Universität für Bodenkultur Wien",
+        "period": "Juni 2025 – Heute",
+        "description": "Groß angelegte Genomdatenanalyse (NGS, k-mer-basierte GWAS, Variantenerkennung) mit reproduzierbaren Pipelines auf HPC-Clustern; Entwicklung von Bioinformatik-Tools, Verfassen wissenschaftlicher Publikationen und Betreuung von Studierenden."
+      },
+      {
+        "title": "E-Multiplikator",
+        "company": "Universität für Bodenkultur Wien",
+        "period": "Juli 2024 – Mai 2025",
+        "description": "Beratung von Lehrenden zu online-unterstützter Lehre und Erweiterung der universitären E-Learning-Plattform (BOKUExams) um automatisierte Fragengenerierung und neue Übungsaufgaben."
+      },
+      {
+        "title": "Studienassistent, Institut für Computergestützte Biologie",
+        "company": "Universität für Bodenkultur Wien",
+        "period": "November 2022 – Mai 2025",
+        "description": "Unterstützung in der Lehre und Forschung der computergestützten Biologie, Mitarbeit an Datenverarbeitungs-Workflows und Betreuung von Studierenden."
+      },
+      {
+        "title": "Tutor, Institut für Statistik",
+        "company": "Universität für Bodenkultur Wien",
+        "period": "Oktober 2022 – Juni 2024",
+        "description": "Tutor für die Lehrveranstaltungen 'First Steps with R' und 'Statistics with R'."
+      },
+      {
+        "title": "Tutor, Organisch-Chemische Übungen",
+        "company": "Universität für Bodenkultur Wien",
+        "period": "Juni 2022",
+        "description": "Leitung von Laborübungen zu Flüssig-Flüssig-Extraktion, Destillation, Rekristallisation, Dünnschichtchromatographie und Synthese."
+      },
+      {
+        "title": "Praktikum Labortechniker QM",
+        "company": "STAMAG Stadlauer Malzfabrik GesmbH",
+        "period": "August 2019",
+        "description": "Durchführung von Getreidechemie-Analysen zur Qualitätskontrolle von Rohstoffen, Durchführung von Malzanalytik (EBC, Kjeldahl, MEBAK) und Unterstützung bei Audits."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplom-Ingenieur, Biotechnologie (Masterabschluss)",
+        "institution": "Universität für Bodenkultur Wien",
+        "period": "August 2021 – April 2025",
+        "distinction": "mit Auszeichnung bestanden"
+      },
+      {
+        "degree": "Bachelor of Science - BSc, Lebensmittelwissenschaften und Biotechnologie",
+        "institution": "Universität für Bodenkultur Wien",
+        "period": "Oktober 2017 – Juni 2021",
+        "distinction": "mit Auszeichnung bestanden"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "description": "Umfangreiche Erfahrung in Python für Datenanalyse, Scripting und die Entwicklung bioinformatischer Werkzeuge."
+      },
+      {
+        "name": "R",
+        "description": "Sicherer Umgang mit R für statistische Analysen, Datenvisualisierung und die Erstellung interaktiver Berichte."
+      },
+      {
+        "name": "High-Performance Computing (HPC)",
+        "description": "Arbeiten mit Daten im Terabyte-Bereich auf einem leistungsstarken Linux-Cluster und dem Austrian Scientific Computing Cluster, Umgang mit SLURM-Skripten und Nutzung von Parallelisierung."
+      },
+      {
+        "name": "Next-Generation Sequencing (NGS)",
+        "description": "Praktische Erfahrung in der NGS-Datenanalyse, inklusive Qualitätskontrolle, Alignment und Variant Calling."
+      },
+      {
+        "name": "Machine Learning (scikit-learn)",
+        "description": "Einsatz von Machine-Learning-Methoden für Vorhersagemodelle und datengetriebene Erkenntnisse in biologischen Datensätzen, etwa Random Forests."
+      },
+      {
+        "name": "Datenvisualisierung (Jupyter, Rmarkdown, Polars/Pandas)",
+        "description": "Erstellung aussagekräftiger Visualisierungen und Berichte zur verständlichen Darstellung komplexer Ergebnisse mit matplotlib, ggplot2, seaborn und plotly sowie Dimensionsreduktion wie PCA und UMAP."
+      },
+      {
+        "name": "GWAS & Variantenanalyse",
+        "description": "Spezialisiert auf k-mer-basierte genomweite Assoziationsstudien und (strukturelle) Variantenanalysen für die Genomforschung."
+      },
+      {
+        "name": "Bioinformatik-Pipelines (Snakemake)",
+        "description": "Aufbau und Betreuung reproduzierbarer Bioinformatik-Pipelines für automatisierte Datenverarbeitung und Analyse."
+      },
+      {
+        "name": "Bash",
+        "description": "Versiert in Bash-Skripting zur Automatisierung von Aufgaben und Systemverwaltung in Linux-Umgebungen."
+      },
+      {
+        "name": "Rust-Tooling & CI/CD",
+        "description": "Einsatz von Rust für performancekritische Anwendungen und Implementierung von CI/CD-Pipelines für automatisiertes Testen und Deployment."
+      },
+      {
+        "name": "Abhängigkeitsmanagement (conda/uv)",
+        "description": "Verwaltung von Python-Umgebungen und Paketen mit conda und uv, einschließlich Erstellung, Aktivierung und Installation von Abhängigkeiten."
+      }
+    ],
+    "publications": [
+      {
+        "title": "MerKurio: sequence extraction and annotation based on matching k-mers",
+        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Derzeit unter Review."
+      },
+      {
+        "title": "Haplotype divergence of flowering time regulator genes in sugar beet and wild beets",
+        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Vortrag auf der 2nd Beet Resources Conference, Oktober 2022. Veranstaltet von der BOKU Wien."
+      },
+      {
+        "title": "Exploiting k-mers for genotype-phenotype association in spinach",
+        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster präsentiert auf der German Conference on Bioinformatics (GCB) 2024, September 2024. Organisiert von der DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V."
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Projekte",
+    "description": "Eine Auswahl persönlicher und beruflicher Projekte, an denen ich gearbeitet habe.",
+    "code": "Code",
+    "demo": "Demo",
+    "docs": "Doku",
+    "crates": "Crates",
+    "items": [
+      {
+        "title": "MerKurio",
+        "description": "Ein bioinformatisches Kommandozeilen-Tool, geschrieben in Rust, für die schnelle k-mer-basierte Extraktion von FASTA/FASTQ-Sequenzdatensätzen sowie das Filtern und Annotieren von SAM/BAM-Dateien mit k-mer-Tags.",
+        "tech": ["Rust", "CI/CD", "Kommandozeilenprogramm"],
+        "github": "https://github.com/lschoenm/MerKurio",
+        "demo": null,
+        "cratesio": "https://crates.io/crates/Merkurio",
+        "docs": "https://lschoenm.github.io/MerKurio/"
+      },
+      {
+        "title": "Portfolio-Website",
+        "description": "Persönliche Portfolio-Website, konzipiert und umgesetzt mit React und TypeScript. Schnelle Prototypenerstellung und iterative Weiterentwicklung mithilfe KI-gestützter Entwicklungsworkflows (LLM-basierte Codegenerierung und -review), mit manueller Validierung und Refaktorisierung.",
+        "tech": ["TypeScript", "React", "Vite", "Tailwind CSS"],
+        "github": "https://github.com",
+        "demo": "https://example.com"
+}
+
+    ]
+  },
+  "footer": {
+    "copyright": "© {{year}} Lukas Schönmann. Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Ups! Seite nicht gefunden",
+    "back": "Zurück zur Startseite"
+  },
+  "contact": {
+    "heading": "Kontakt",
+    "description": "Ich bin immer offen für neue Projekte, kreative Ideen oder Möglichkeiten, Teil Ihrer Visionen zu werden. Zögern Sie nicht, mich zu kontaktieren.",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden"
+  }
+}
