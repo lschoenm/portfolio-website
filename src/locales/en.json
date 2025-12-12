@@ -91,8 +91,8 @@
         "description": "Proficient in Bash scripting for automating tasks and managing system operations in a Linux environment."
       },
       {
-        "name": "High-performance computing (HPC)",
-        "description": "Working with terabyte-scale data on a high-performance Linux cluster and the Austrian Scientific Computing cluster, submitting SLURM scripts, and utilizing parallelization."
+        "name": "Data Handling & Analysis",
+        "description": "Efficient reading, transformation, and analysis of larger datasets using Polars, Pandas, and R (tidyverse). Basic experience with SQL (PostgreSQL) and accessing external data sources via REST APIs."
       },
       {
         "name": "Next-Generation Sequencing (NGS)",
@@ -117,6 +117,10 @@
       {
         "name": "Rust tooling & CI/CD",
         "description": "Utilizing Rust for performance-critical applications and implementing CI/CD pipelines for automated testing and deployment."
+      },
+      {
+        "name": "High-performance computing (HPC)",
+        "description": "Working with terabyte-scale data on a high-performance Linux cluster and the Austrian Scientific Computing cluster, submitting SLURM scripts, and utilizing parallelization."
       },
       {
         "name": "Dependency management (conda/uv)",

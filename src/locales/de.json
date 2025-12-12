@@ -91,8 +91,8 @@
         "description": "Versiert in Bash-Skripting zur Automatisierung von Aufgaben und Systemverwaltung in Linux-Umgebungen."
       },
       {
-        "name": "High-Performance Computing (HPC)",
-        "description": "Arbeiten mit Daten im Terabyte-Bereich auf einem leistungsstarken Linux-Cluster und dem Austrian Scientific Computing Cluster, Umgang mit SLURM-Skripten und Nutzung von Parallelisierung."
+        "name": "Data Handling & Analysis",
+        "description": "Effizientes Lesen, Transformieren und Analysieren größerer Datensätze mit Polars, Pandas und R (tidyverse). Grundkenntnisse in SQL (PostgreSQL) sowie im Zugriff auf externe Datenquellen über REST-APIs."
       },
       {
         "name": "Next-Generation Sequencing (NGS)",
@@ -117,6 +117,10 @@
       {
         "name": "Rust-Tooling & CI/CD",
         "description": "Einsatz von Rust für performancekritische Anwendungen und Implementierung von CI/CD-Pipelines für automatisiertes Testen und Deployment."
+      },
+      {
+        "name": "High-Performance Computing (HPC)",
+        "description": "Arbeiten mit Daten im Terabyte-Bereich auf einem leistungsstarken Linux-Cluster und dem Austrian Scientific Computing Cluster, Umgang mit SLURM-Skripten und Nutzung von Parallelisierung."
       },
       {
         "name": "Abhängigkeitsmanagement (conda/uv)",
