@@ -160,7 +160,7 @@
         "description": "Persönliche Portfolio-Website, konzipiert und umgesetzt mit React und TypeScript. Schnelle Prototypenerstellung und iterative Weiterentwicklung mithilfe KI-gestützter Entwicklungsworkflows (LLM-basierte Codegenerierung und -review), mit manueller Validierung und Refaktorisierung.",
         "tech": ["TypeScript", "React", "Vite", "Tailwind CSS"],
         "github": "https://github.com/lschoenm/portfolio-website",
-        "demo": "https://example.com"
+        "demo": "https://lschoenm.github.io/portfolio-website/"
 }
 
     ]
