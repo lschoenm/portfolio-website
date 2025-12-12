@@ -79,52 +79,40 @@
     ],
     "skills": [
       {
-        "name": "Python",
-        "description": "Extensive experience in Python for data analysis, scripting, and developing bioinformatics tools."
-      },
-      {
-        "name": "R",
-        "description": "Proficient in R for statistical analysis, data visualization, and building interactive reports."
-      },
-      {
-        "name": "Bash",
-        "description": "Proficient in Bash scripting for automating tasks and managing system operations in a Linux environment."
+        "name": "Programming",
+        "description": "Python (data analysis, scripting, bioinformatics tooling), R (statistical analysis, visualization), and Bash for automation in Linux environments."
       },
       {
         "name": "Data Handling & Analysis",
         "description": "Efficient reading, transformation, and analysis of larger datasets using Polars, Pandas, and R (tidyverse). Basic experience with SQL (PostgreSQL) and accessing external data sources via REST APIs."
       },
       {
-        "name": "Next-Generation Sequencing (NGS)",
-        "description": "Hands-on experience with NGS data analysis, including quality control, alignment, and variant calling."
+        "name": "Bioinformatics & Genomics",
+        "description": "Hands-on experience with NGS data analysis (quality control, alignment, variant calling) and specialized work in k-mer-based GWAS and structural variant analysis."
       },
       {
-        "name": "Machine learning (scikit-learn)",
-        "description": "Applied machine learning techniques for predictive modeling and data-driven insights in biological datasets, such as Random Forests."
+        "name": "Machine Learning",
+        "description": "Applied machine learning for biological data, including classification models such as Random Forests, cross-validation, and model evaluation using scikit-learn."
       },
       {
-        "name": "Data visualization (Jupyter, Rmarkdown)",
-        "description": "Creating compelling data visualizations and reports to communicate complex findings effectively, using matplotlib, ggplot2, seaborn, and plotly graph libraries, and dimensionality reduction techniques such as PCA and UMAP."
+        "name": "Data Visualization & Reporting",
+        "description": "Communicating complex results through reproducible reports and visualizations using Jupyter and R Markdown with matplotlib, ggplot2, and Plotly; dimensionality reduction with PCA and UMAP."
       },
       {
-        "name": "GWAS & variant analysis",
-        "description": "Specialized in k-mer based genome-wide association studies and (structural) variant analysis for genomic research."
+        "name": "Workflow Automation",
+        "description": "Designing and maintaining reproducible bioinformatics pipelines using Snakemake for automated data processing."
       },
       {
-        "name": "Bioinformatics pipelines (Snakemake)",
-        "description": "Building and managing reproducible bioinformatics pipelines for automated data processing and analysis."
+        "name": "High-Performance Computing (HPC)",
+        "description": "Working with terabyte-scale datasets on Linux-based HPC clusters, including the Austrian Scientific Computing Cluster, using SLURM job scheduling and parallelization."
       },
       {
-        "name": "Rust tooling & CI/CD",
-        "description": "Utilizing Rust for performance-critical applications and implementing CI/CD pipelines for automated testing and deployment."
+        "name": "Software Engineering",
+        "description": "Developing performance-critical bioinformatics tools in Rust and implementing CI/CD pipelines for automated testing and deployment."
       },
       {
-        "name": "High-performance computing (HPC)",
-        "description": "Working with terabyte-scale data on a high-performance Linux cluster and the Austrian Scientific Computing cluster, submitting SLURM scripts, and utilizing parallelization."
-      },
-      {
-        "name": "Dependency management (conda/uv)",
-        "description": "Managing Python environments and packages with conda and uv, including creating, activating, and installing dependencies."
+        "name": "Environment Management",
+        "description": "Managing reproducible software environments and dependencies using conda and uv."
       }
     ],
     "publications": [

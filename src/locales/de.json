@@ -79,52 +79,40 @@
     ],
     "skills": [
       {
-        "name": "Python",
-        "description": "Umfangreiche Erfahrung in Python für Datenanalyse, Scripting und die Entwicklung bioinformatischer Werkzeuge."
-      },
-      {
-        "name": "R",
-        "description": "Sicherer Umgang mit R für statistische Analysen, Datenvisualisierung und die Erstellung interaktiver Berichte."
-      },
-      {
-        "name": "Bash",
-        "description": "Versiert in Bash-Skripting zur Automatisierung von Aufgaben und Systemverwaltung in Linux-Umgebungen."
+        "name": "Programmieren",
+        "description": "Python für Datenanalyse, Skripting und die Entwicklung bioinformatischer Tools; R für statistische Analysen und Visualisierung; Bash zur Automatisierung in Linux-Umgebungen."
       },
       {
         "name": "Data Handling & Analysis",
-        "description": "Effizientes Lesen, Transformieren und Analysieren größerer Datensätze mit Polars, Pandas und R (tidyverse). Grundkenntnisse in SQL (PostgreSQL) sowie im Zugriff auf externe Datenquellen über REST-APIs."
+        "description": "Effizientes Einlesen, Transformieren und Analysieren größerer Datensätze mit Polars, Pandas und R (tidyverse). Grundkenntnisse in SQL (PostgreSQL) sowie im Zugriff auf externe Datenquellen über REST-APIs."
       },
       {
-        "name": "Next-Generation Sequencing (NGS)",
-        "description": "Praktische Erfahrung in der NGS-Datenanalyse, inklusive Qualitätskontrolle, Alignment und Variant Calling."
+        "name": "Bioinformatik & Genomik",
+        "description": "Praktische Erfahrung in der Analyse von Next-Generation-Sequencing-Daten (Qualitätskontrolle, Alignment, Variant Calling) sowie spezialisierte Arbeiten im Bereich k-mer-basierter GWAS und struktureller Variantenanalyse."
       },
       {
-        "name": "Machine Learning (scikit-learn)",
-        "description": "Einsatz von Machine-Learning-Methoden für Vorhersagemodelle und datengetriebene Erkenntnisse in biologischen Datensätzen, etwa Random Forests."
+        "name": "Machine Learning",
+        "description": "Anwendung maschineller Lernverfahren auf biologische Datensätze, insbesondere Klassifikationsmodelle wie Random Forests, inklusive Cross-Validation und Modellbewertung mit scikit-learn."
       },
       {
-        "name": "Datenvisualisierung (Jupyter, Rmarkdown)",
-        "description": "Erstellung aussagekräftiger Visualisierungen und Berichte zur verständlichen Darstellung komplexer Ergebnisse mit matplotlib, ggplot2, seaborn und plotly sowie Dimensionsreduktion wie PCA und UMAP."
+        "name": "Datenvisualisierung & Reporting",
+        "description": "Kommunikation komplexer Ergebnisse mittels reproduzierbarer Reports und Visualisierungen in Jupyter und R Markdown unter Verwendung von matplotlib, ggplot2 und Plotly; Dimensionsreduktion mit PCA und UMAP."
       },
       {
-        "name": "GWAS & Variantenanalyse",
-        "description": "Spezialisiert auf k-mer-basierte genomweite Assoziationsstudien und (strukturelle) Variantenanalysen für die Genomforschung."
-      },
-      {
-        "name": "Bioinformatik-Pipelines (Snakemake)",
-        "description": "Aufbau und Betreuung reproduzierbarer Bioinformatik-Pipelines für automatisierte Datenverarbeitung und Analyse."
-      },
-      {
-        "name": "Rust-Tooling & CI/CD",
-        "description": "Einsatz von Rust für performancekritische Anwendungen und Implementierung von CI/CD-Pipelines für automatisiertes Testen und Deployment."
+        "name": "Workflow-Automatisierung",
+        "description": "Entwicklung und Pflege reproduzierbarer bioinformatischer Pipelines mit Snakemake zur automatisierten Datenverarbeitung."
       },
       {
         "name": "High-Performance Computing (HPC)",
-        "description": "Arbeiten mit Daten im Terabyte-Bereich auf einem leistungsstarken Linux-Cluster und dem Austrian Scientific Computing Cluster, Umgang mit SLURM-Skripten und Nutzung von Parallelisierung."
+        "description": "Arbeit mit Terabyte-großen Datensätzen auf Linux-HPC-Clustern, einschließlich des Austrian Scientific Computing Clusters, unter Nutzung von SLURM-Skripten und Parallelisierung."
       },
       {
-        "name": "Abhängigkeitsmanagement (conda/uv)",
-        "description": "Verwaltung von Python-Umgebungen und Paketen mit conda und uv, einschließlich Erstellung, Aktivierung und Installation von Abhängigkeiten."
+        "name": "Software Engineering",
+        "description": "Entwicklung performanter bioinformatischer Tools in Rust sowie Implementierung von CI/CD-Pipelines für automatisierte Tests und Deployment."
+      },
+      {
+        "name": "Umgebungs- & Abhängigkeitsmanagement",
+        "description": "Verwaltung reproduzierbarer Software-Umgebungen und Abhängigkeiten mit conda und uv."
       }
     ],
     "publications": [
