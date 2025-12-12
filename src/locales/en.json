@@ -87,6 +87,10 @@
         "description": "Proficient in R for statistical analysis, data visualization, and building interactive reports."
       },
       {
+        "name": "Bash",
+        "description": "Proficient in Bash scripting for automating tasks and managing system operations in a Linux environment."
+      },
+      {
         "name": "High-performance computing (HPC)",
         "description": "Working with terabyte-scale data on a high-performance Linux cluster and the Austrian Scientific Computing cluster, submitting SLURM scripts, and utilizing parallelization."
       },
@@ -99,7 +103,7 @@
         "description": "Applied machine learning techniques for predictive modeling and data-driven insights in biological datasets, such as Random Forests."
       },
       {
-        "name": "Data visualization (Jupyter, Rmarkdown, Polars/Pandas)",
+        "name": "Data visualization (Jupyter, Rmarkdown)",
         "description": "Creating compelling data visualizations and reports to communicate complex findings effectively, using matplotlib, ggplot2, seaborn, and plotly graph libraries, and dimensionality reduction techniques such as PCA and UMAP."
       },
       {
@@ -109,10 +113,6 @@
       {
         "name": "Bioinformatics pipelines (Snakemake)",
         "description": "Building and managing reproducible bioinformatics pipelines for automated data processing and analysis."
-      },
-      {
-        "name": "Bash",
-        "description": "Proficient in Bash scripting for automating tasks and managing system operations in a Linux environment."
       },
       {
         "name": "Rust tooling & CI/CD",

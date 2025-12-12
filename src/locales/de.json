@@ -87,6 +87,10 @@
         "description": "Sicherer Umgang mit R für statistische Analysen, Datenvisualisierung und die Erstellung interaktiver Berichte."
       },
       {
+        "name": "Bash",
+        "description": "Versiert in Bash-Skripting zur Automatisierung von Aufgaben und Systemverwaltung in Linux-Umgebungen."
+      },
+      {
         "name": "High-Performance Computing (HPC)",
         "description": "Arbeiten mit Daten im Terabyte-Bereich auf einem leistungsstarken Linux-Cluster und dem Austrian Scientific Computing Cluster, Umgang mit SLURM-Skripten und Nutzung von Parallelisierung."
       },
@@ -99,7 +103,7 @@
         "description": "Einsatz von Machine-Learning-Methoden für Vorhersagemodelle und datengetriebene Erkenntnisse in biologischen Datensätzen, etwa Random Forests."
       },
       {
-        "name": "Datenvisualisierung (Jupyter, Rmarkdown, Polars/Pandas)",
+        "name": "Datenvisualisierung (Jupyter, Rmarkdown)",
         "description": "Erstellung aussagekräftiger Visualisierungen und Berichte zur verständlichen Darstellung komplexer Ergebnisse mit matplotlib, ggplot2, seaborn und plotly sowie Dimensionsreduktion wie PCA und UMAP."
       },
       {
@@ -109,10 +113,6 @@
       {
         "name": "Bioinformatik-Pipelines (Snakemake)",
         "description": "Aufbau und Betreuung reproduzierbarer Bioinformatik-Pipelines für automatisierte Datenverarbeitung und Analyse."
-      },
-      {
-        "name": "Bash",
-        "description": "Versiert in Bash-Skripting zur Automatisierung von Aufgaben und Systemverwaltung in Linux-Umgebungen."
       },
       {
         "name": "Rust-Tooling & CI/CD",
