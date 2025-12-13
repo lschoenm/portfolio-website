@@ -129,6 +129,10 @@
     scroll-behavior: smooth;
   }
 
+  html, body {
+    height: 100dvh; /* Use dynamic viewport height for better mobile compatibility */
+  }
+
   body {
     @apply bg-background text-foreground font-body antialiased;
   }
