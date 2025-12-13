@@ -12,7 +12,7 @@ export function HeroSection() {
   return (
     <section
       id="home"
-      className="relative min-h-screen overflow-hidden flex items-center justify-center pt-16"
+      className="relative min-h-dvh overflow-hidden flex items-center justify-center pt-16"
     >
       <div className="pointer-events-none absolute inset-0 z-0">
         <div
