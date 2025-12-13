@@ -1,9 +1,6 @@
 import { Download, Briefcase, GraduationCap, Code, BookOpen } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
-import { Button } from "@/components/ui/button";
 import { useIsMobile } from "@/hooks/use-mobile";
-
-import cvPdf from "../../assets/linkedincv.pdf";
 
 import {
   Tooltip,
@@ -70,15 +67,6 @@ export function CVSection() {
           <p className="text-lg text-muted-foreground max-w-xl mx-auto mb-8">
             {t("cv.description")}
           </p>
-          <Button
-            asChild
-            className="bg-primary text-primary-foreground hover:bg-primary/90"
-          >
-            <a href={cvPdf} download>
-              <Download className="mr-2 h-4 w-4" />
-              {t("cv.download")}
-            </a>
-          </Button>
         </div>
 
           {/* Skills */}
