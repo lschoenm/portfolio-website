@@ -156,7 +156,7 @@
       },
       {
         "title": "xadmix - Visualisierung genetischer Admixture-Daten",
-        "description": "Ein nützliches R-Paket zur Filterung und graphischen Darstellung von genetischen Populationsdaten.",
+        "description": "Ein nützliches R-Paket zur Filterung und graphischen Darstellung von genetischen Populationsdaten. Kann über CRAN oder GitHub installiert werden. Enthält eine detaillierte Vignette und Dokumentation zur einfachen Nutzung.",
         "tech": ["R", "ggplot2", "Genomik"],
         "github": "https://github.com/lschoenm/xadmix",
         "docs": "https://cran.r-project.org/web/packages/xadmix/vignettes/xadmix-manual.html"

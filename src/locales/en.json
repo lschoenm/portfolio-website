@@ -156,7 +156,7 @@
       },
       {
         "title": "xadmix - Visualize Genetic Admixture Data",
-        "description": "A convenience R package to subset and visualize admixture data.",
+        "description": "A convenience R package to subset and visualize admixture data. Can be downloaded from CRAN or GitHub. Includes a detailed vignette and documentation for easy usage.",
         "tech": ["R", "ggplot2", "Genomics"],
         "github": "https://github.com/lschoenm/xadmix",
         "docs": "https://cran.r-project.org/web/packages/xadmix/vignettes/xadmix-manual.html"
