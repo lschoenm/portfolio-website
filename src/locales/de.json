@@ -122,14 +122,14 @@
         "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Derzeit unter Review."
       },
       {
-        "title": "Haplotype divergence of flowering time regulator genes in sugar beet and wild beets",
-        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Vortrag auf der 2nd Beet Resources Conference, Oktober 2022. Veranstaltet von der BOKU Wien.",
-        "link": "https://example.com/haplotype_divergence.pdf"
-      },
-      {
         "title": "Exploiting k-mers for genotype-phenotype association in spinach",
         "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster präsentiert auf der German Conference on Bioinformatics (GCB) 2024, September 2024. Organisiert von der DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V.",
-        "link": "https://example.com/kmer_spinach_poster.pdf"
+        "link": "https://github.com/lschoenm/portfolio-website/blob/main/assets/pub-documents/poster-GBC-exploiting-kmers.pdf"
+      },
+      {
+        "title": "Haplotype divergence of flowering time regulator genes in sugar beet and wild beets",
+        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Vortrag auf der 2nd Beet Resources Conference, Oktober 2022. Veranstaltet von der BOKU Wien.",
+        "link": "https://github.com/lschoenm/portfolio-website/blob/main/assets/pub-documents/poster-haplotype-divergence.pdf"
       }
     ]
   },
