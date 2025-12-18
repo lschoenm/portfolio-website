@@ -132,7 +132,7 @@
   },
   "projects": {
     "heading": "Projects",
-    "description": "A selection of personal and professional projects I've worked on.",
+    "description": "A selection of personal and (public) professional projects I've worked on.",
     "code": "Code",
     "demo": "Demo",
     "docs": "Docs",
@@ -153,7 +153,20 @@
         "tech": ["TypeScript", "React", "Vite", "Tailwind CSS"],
         "github": "https://github.com/lschoenm/portfolio-website",
         "demo": "https://lschoenm.github.io/portfolio-website/"
-     }
+      },
+      {
+        "title": "xadmix - Visualize Genetic Admixture Data",
+        "description": "A convenience R package to subset and visualize admixture data.",
+        "tech": ["R", "ggplot2", "Genomics"],
+        "github": "https://github.com/lschoenm/xadmix",
+        "docs": "https://cran.r-project.org/web/packages/xadmix/vignettes/xadmix-manual.html"
+      },
+      {
+        "title": "ICB SNV Clustering",
+        "description": "Analysis of PCA results on SNPs of beet rhizomania resistance gene Rz2. The repo also contains various preprocessing and helper functions. Internship project while working at COBI (Institute of Computational Biology) of BOKU University.",
+        "tech": ["Python", "Jupyter"],
+        "github": "https://github.com/lschoenm/ICB-SNV-clustering"     
+      }
     ]
   },
   "footer": {

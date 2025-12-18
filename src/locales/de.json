@@ -132,7 +132,7 @@
   },
   "projects": {
     "heading": "Projekte",
-    "description": "Eine Auswahl persönlicher und beruflicher Projekte, an denen ich gearbeitet habe.",
+    "description": "Eine Auswahl persönlicher und (öffentlicher) beruflicher Projekte, an denen ich gearbeitet habe.",
     "code": "Code",
     "demo": "Demo",
     "docs": "Doku",
@@ -153,8 +153,20 @@
         "tech": ["TypeScript", "React", "Vite", "Tailwind CSS"],
         "github": "https://github.com/lschoenm/portfolio-website",
         "demo": "https://lschoenm.github.io/portfolio-website/"
-}
-
+      },
+      {
+        "title": "xadmix - Visualisierung genetischer Admixture-Daten",
+        "description": "Ein nützliches R-Paket zur Filterung und graphischen Darstellung von genetischen Populationsdaten.",
+        "tech": ["R", "ggplot2", "Genomik"],
+        "github": "https://github.com/lschoenm/xadmix",
+        "docs": "https://cran.r-project.org/web/packages/xadmix/vignettes/xadmix-manual.html"
+      },
+      {
+        "title": "ICB SNV Clustering",
+        "description": "Analyse von PCA-Ergebnissen basierend auf SNPs des Rüben-Rhizomania-Resistenzgens Rz2. Das Repository enthält auch verschiedene Vorverarbeitungs- und Hilfsfunktionen. Praktikumsprojekt während meiner Tätigkeit am COBI (Institut für Computergestützte Biologie) der Universität für Bodenkultur Wien.",
+        "tech": ["Python", "Jupyter"],
+        "github": "https://github.com/lschoenm/ICB-SNV-clustering"     
+      }
     ]
   },
   "footer": {
