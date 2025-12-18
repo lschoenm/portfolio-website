@@ -25,6 +25,7 @@
     "educationHeading": "Education",
     "skillsHeading": "Skills",
     "publicationsHeading": "Publications",
+    "viewDocument": "View document",
     "experience": [
       {
         "title": "Research Associate (Computational Biology/Bioinformatics)",
@@ -122,11 +123,13 @@
       },
       {
         "title": "Haplotype divergence of flowering time regulator genes in sugar beet and wild beets",
-        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Talk presented at the 2nd Beet Resources Conference, October 2022. Hosted by BOKU Vienna."
+        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Talk presented at the 2nd Beet Resources Conference, October 2022. Hosted by BOKU Vienna.",
+        "link": "https://example.com/haplotype_divergence.pdf"
       },
       {
         "title": "Exploiting k-mers for genotype-phenotype association in spinach",
-        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster presented at the German Conference on Bioinformatics (GCB) 2024, September 2024. Organized by DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V."
+        "citation": "L. Schönmann, H. Himmelbauer, and J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster presented at the German Conference on Bioinformatics (GCB) 2024, September 2024. Organized by DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V.",
+        "link": "https://example.com/kmer_spinach_poster.pdf"
       }
     ]
   },
@@ -165,7 +168,7 @@
         "title": "ICB SNV Clustering",
         "description": "Analysis of PCA results on SNPs of beet rhizomania resistance gene Rz2. The repo also contains various preprocessing and helper functions. Internship project while working at COBI (Institute of Computational Biology) of BOKU University.",
         "tech": ["Python", "Jupyter"],
-        "github": "https://github.com/lschoenm/ICB-SNV-clustering"     
+        "github": "https://github.com/lschoenm/ICB-SNV-clustering"
       }
     ]
   },

@@ -25,6 +25,7 @@
     "educationHeading": "Ausbildung",
     "skillsHeading": "Fähigkeiten",
     "publicationsHeading": "Publikationen",
+    "viewDocument": "Dokument ansehen",
     "experience": [
       {
         "title": "Wissenschaftlicher Mitarbeiter (Computational Biology/Bioinformatik)",
@@ -122,11 +123,13 @@
       },
       {
         "title": "Haplotype divergence of flowering time regulator genes in sugar beet and wild beets",
-        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Vortrag auf der 2nd Beet Resources Conference, Oktober 2022. Veranstaltet von der BOKU Wien."
+        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Haplotype divergence of flowering time regulator genes in sugar beet and wild beets. Vortrag auf der 2nd Beet Resources Conference, Oktober 2022. Veranstaltet von der BOKU Wien.",
+        "link": "https://example.com/haplotype_divergence.pdf"
       },
       {
         "title": "Exploiting k-mers for genotype-phenotype association in spinach",
-        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster präsentiert auf der German Conference on Bioinformatics (GCB) 2024, September 2024. Organisiert von der DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V."
+        "citation": "L. Schönmann, H. Himmelbauer, und J. C. Dohm. Exploiting k-mers for genotype-phenotype association in spinach. Poster präsentiert auf der German Conference on Bioinformatics (GCB) 2024, September 2024. Organisiert von der DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V.",
+        "link": "https://example.com/kmer_spinach_poster.pdf"
       }
     ]
   },
@@ -165,7 +168,7 @@
         "title": "ICB SNV Clustering",
         "description": "Analyse von PCA-Ergebnissen basierend auf SNPs des Rüben-Rhizomania-Resistenzgens Rz2. Das Repository enthält auch verschiedene Vorverarbeitungs- und Hilfsfunktionen. Praktikumsprojekt während meiner Tätigkeit am COBI (Institut für Computergestützte Biologie) der Universität für Bodenkultur Wien.",
         "tech": ["Python", "Jupyter"],
-        "github": "https://github.com/lschoenm/ICB-SNV-clustering"     
+        "github": "https://github.com/lschoenm/ICB-SNV-clustering"
       }
     ]
   },

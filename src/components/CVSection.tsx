@@ -1,6 +1,7 @@
 import { Download, Briefcase, GraduationCap, Code, BookOpen } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { Button } from "@/components/ui/button";
 
 import {
   Tooltip,
@@ -220,6 +221,14 @@ export function CVSection() {
                     {publication.title}
                   </div>
                   <p>{publication.citation}</p>
+                  {publication.link && (
+                    <Button asChild variant="outline" size="sm" className="mt-2">
+                      <a href={publication.link} target="_blank" rel="noopener noreferrer">
+                        <Download className="mr-2 h-4 w-4" />
+                        {t("cv.viewDocument")}
+                      </a>
+                    </Button>
+                  )}
                 </li>
               ))}
             </ol>
