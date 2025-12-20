@@ -198,6 +198,25 @@ export function CVSection() {
                         {edu.distinction}
                       </p>
                     )}
+                    {edu.thesisTitle && (
+                      <div className="mt-2">
+                        <p className="text-muted-foreground italic">Thesis</p>
+                        <p className="font-semibold text-foreground">
+                          {edu.thesisTitle}
+                        </p>
+                        <p className="text-muted-foreground">
+                          {edu.thesisDescription}
+                        </p>
+                        {edu.thesisLink && (
+                          <Button asChild variant="outline" size="sm" className="mt-2">
+                            <a href={edu.thesisLink} target="_blank" rel="noopener noreferrer">
+                              <Download className="mr-2 h-4 w-4" />
+                              {t("cv.viewDocument")}
+                            </a>
+                          </Button>
+                        )}
+                      </div>
+                    )}
                   </div>
                 ),
               )}

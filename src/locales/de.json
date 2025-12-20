@@ -69,7 +69,10 @@
         "degree": "Diplom-Ingenieur, Biotechnologie (Masterabschluss)",
         "institution": "Universität für Bodenkultur Wien",
         "period": "August 2021 – April 2025",
-        "distinction": "mit Auszeichnung bestanden"
+        "distinction": "mit Auszeichnung bestanden",
+        "thesisTitle": "Nutzung von K-Mers zur Genotyp-Phänotyp-Assoziation in Spinat",
+        "thesisDescription": "Durchführung von groß angelegten NGS-Analysen von 303 Akzessionen unter Verwendung von Python/R, HPC und einem eigens entwickelten Rust-Werkzeug. Identifikation von Kandidatenloci für agronomisch relevante Merkmale sowie Entwicklung von ML-Modellen zur Vorhersage von Krankheitsresistenz (bis zu 98 % Genauigkeit).",
+        "thesisLink": "https://github.com/lschoenm/portfolio-website/blob/main/assets/pub-documents/master-thesis-exploiting-kmers.pdf"
       },
       {
         "degree": "Bachelor of Science - BSc, Lebensmittelwissenschaften und Biotechnologie",

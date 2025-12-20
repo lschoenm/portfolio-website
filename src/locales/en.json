@@ -69,7 +69,10 @@
         "degree": "Diplom-Ingenieur (Master’s Degree), Biotechnology",
         "institution": "BOKU University",
         "period": "August 2021 – April 2025",
-        "distinction": "passed with distinction"
+        "distinction": "passed with distinction",
+        "thesisTitle": "Exploiting k-mers for genotype-phenotype association in spinach",
+        "thesisDescription": "Performed large-scale NGS analysis on 303 accessions using Python/R, HPC, and custom Rust tools. Identified candidate loci for key agronomic traits and built ML models predicting disease resistance with 98 % accuracy.",
+        "thesisLink": "https://github.com/lschoenm/portfolio-website/blob/main/assets/pub-documents/master-thesis-exploiting-kmers.pdf"
       },
       {
         "degree": "Bachelor of Science - BSc, Food Science and Biotechnology",
